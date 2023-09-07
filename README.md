@@ -13,4 +13,4 @@
 - Python. [Курсовая работа «Резервное копирование»](https://github.com/AlexandrPlatonov199/Kursovaya1)
 
 ### Сертификаты, свидетельства, дипломы
-- Свидетельство об обучении: [Python-разработчик с нуля](https://drive.google.com/drive/folders/1vHgMYikXw5vehVvWuAu7FE3bdvwQv-WT)
+- Свидетельство об обучении: [Python-разработчик с нуля](https://drive.google.com/file/d/1mFE_MLcAnIK4zN4UXDqF9N5K4fk-3ell/view?usp=drive_link)
