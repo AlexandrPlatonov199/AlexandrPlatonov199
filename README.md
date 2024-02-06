@@ -6,7 +6,7 @@
 Алексадр Платонов, python-разработчкик
 
 ### Вот что я умею
-- FastAPI ["API Сервис Bookshelf"](https://github.com/AlexandrPlatonov199/Bookshelf-API)
+- FastAPI ["API Сервис Bookshelf"](https://github.com/AlexandrPlatonov199/Bookshelf-API), ["Получение валютных пар с биржи"]([https://github.com/AlexandrPlatonov199/Bookshelf-API](https://github.com/AlexandrPlatonov199/RateRover))
 - Django ["API Сервис заказа товаров для розничных сетей".](https://github.com/AlexandrPlatonov199/python-final-diplom/tree/master/orders)
 - CI/CD [Работы по теме "Python в вэб разработке".](https://github.com/AlexandrPlatonov199/py-homeworks-web-new)
 - Python [«Резервное копирование»](https://github.com/AlexandrPlatonov199/Kursovaya1)
